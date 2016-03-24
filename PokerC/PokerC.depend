@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458824506 source:c:\users\geoff_000\documents\github\pokerc\pokerc\main.c
+	<stdio.h>
+	<stdlib.h>
+
